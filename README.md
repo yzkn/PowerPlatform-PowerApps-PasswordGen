@@ -1,2 +1,2 @@
-# PowerPlatform-PowerApps-PasswordGen
+# Yomogi
  ランダムパスワードを生成するキャンバスアプリ
